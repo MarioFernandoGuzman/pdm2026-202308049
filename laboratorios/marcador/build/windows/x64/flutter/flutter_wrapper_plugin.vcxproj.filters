@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\mario\OneDrive\Desktop\8voSemestreProgramacion\pdm2026-202308049\laboratorios\marcador\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mario\OneDrive\Desktop\8voSemestreProgramacion\pdm2026-202308049\laboratorios\marcador\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mario\OneDrive\Desktop\8voSemestreProgramacion\pdm2026-202308049\laboratorios\marcador\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mario\OneDrive\Desktop\8voSemestreProgramacion\pdm2026-202308049\laboratorios\marcador\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D91067B9-7459-391A-84DA-DF739BFA6211}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{91F31473-33B7-3027-8DCF-3C123D06B25C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\MARIO\ONEDRIVE\DESKTOP\8VOSEMESTREPROGRAMACION\PDM2026-202308049\LABORATORIOS\MARCADOR\BUILD\WINDOWS\X64\CMAKEFILES\70D559F0F8414F3581BFB54593391A62\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

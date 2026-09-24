@@ -1,0 +1,28 @@
+^C:\USERS\MARIO\ONEDRIVE\DESKTOP\8VOSEMESTREPROGRAMACION\PDM2026-202308049\LABORATORIOS\MARCADOR\BUILD\WINDOWS\X64\CMAKEFILES\6791C3D247724748F54DAA25A7DF5394\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter\flutter PROJECT_DIR=C:\Users\mario\OneDrive\Desktop\8voSemestreProgramacion\pdm2026-202308049\laboratorios\marcador FLUTTER_ROOT=C:\src\flutter\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\mario\OneDrive\Desktop\8voSemestreProgramacion\pdm2026-202308049\laboratorios\marcador\windows\flutter\ephemeral PROJECT_DIR=C:\Users\mario\OneDrive\Desktop\8voSemestreProgramacion\pdm2026-202308049\laboratorios\marcador FLUTTER_TARGET=C:\Users\mario\OneDrive\Desktop\8voSemestreProgramacion\pdm2026-202308049\laboratorios\marcador\lib\main.dart DART_DEFINES=RkxVVFRFUl9WRVJTSU9OPTMuNDQuOA==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049MDU4ZTBhZjJjMg==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049MGNkNjEwNzE3Yg==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My4xMi4y DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\mario\OneDrive\Desktop\8voSemestreProgramacion\pdm2026-202308049\laboratorios\marcador\.dart_tool\package_config.json C:/src/flutter/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARIO\ONEDRIVE\DESKTOP\8VOSEMESTREPROGRAMACION\PDM2026-202308049\LABORATORIOS\MARCADOR\BUILD\WINDOWS\X64\CMAKEFILES\5C2307BBA6526C8DC0A9C5C9EA57C13D\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARIO\ONEDRIVE\DESKTOP\8VOSEMESTREPROGRAMACION\PDM2026-202308049\LABORATORIOS\MARCADOR\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/mario/OneDrive/Desktop/8voSemestreProgramacion/pdm2026-202308049/laboratorios/marcador/windows -BC:/Users/mario/OneDrive/Desktop/8voSemestreProgramacion/pdm2026-202308049/laboratorios/marcador/build/windows/x64 --check-stamp-file C:/Users/mario/OneDrive/Desktop/8voSemestreProgramacion/pdm2026-202308049/laboratorios/marcador/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
