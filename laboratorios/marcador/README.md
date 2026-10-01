@@ -1,4 +1,4 @@
-# Laboratorio Marcador Deportivo
+# Laboratorio 1
 
 ## Capturas de Pantalla
 
@@ -7,6 +7,7 @@
 [Empate](../marcador/capturas/empate.png)
 
 ### Equipo Ganando
+
 [Equipo Ganando](../marcador/capturas/win.png)
 
 ## Preguntas
